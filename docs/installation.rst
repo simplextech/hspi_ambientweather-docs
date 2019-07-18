@@ -2,6 +2,6 @@
 Installation
 ============
 
-Install the package with pip::
+Install $project by running:
 
-    $ pip install read-the-docs-template
+    Installing is availble via the HomeSeer Plugin Manager

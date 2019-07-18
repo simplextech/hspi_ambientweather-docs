@@ -1,7 +1,5 @@
 ========
-Usage
+Usage Examples
 ========
 
-To use this template, simply update it::
-
-	import read-the-docs-template
+Coming Soon!
