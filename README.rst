@@ -38,3 +38,8 @@ Support
 If you are having issues, please let us know.
 `HomeSeer AmbientWeather Forum <https://forums.homeseer.com/forum/weather-plug-ins/weather-discussion/ambient-weather-simplex-technology>`_
 
+Screenshots
+-----------
+
+.. image:: ../images/ws2902devices.png
+
