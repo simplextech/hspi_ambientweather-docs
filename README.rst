@@ -27,9 +27,7 @@ Features
 Installation
 ------------
 
-Install $project by running:
-
-    Installing is availble via the HomeSeer Plugin Manager
+    Plugin is availble via the HomeSeer Plugin Manager
 
 
 Support
